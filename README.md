@@ -1,4 +1,4 @@
-### Hi there 👋
+### 🔭 대덕특구 SPACE-S 공동프로젝트 GitHub 계정입니다. 🔭
 
 <!--
 **ai-space-s/ai-space-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
